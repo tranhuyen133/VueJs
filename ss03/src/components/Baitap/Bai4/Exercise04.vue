@@ -7,30 +7,10 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: 'Exercise04',
-  props: {
-    isActive: {
-      type: Boolean,
-      default: true
-    },
-    backgroundColor: {
-      type: String,
-      default: 'blue'
-    }
-  }
-}
+<script setup>
+
 </script>
 
-<style scoped>
-.block {
-  width: 150px;
-  height: 50px;
-  margin: 10px;
-}
+<style >
 
-.active {
-  color: #fff;
-}
 </style>
