@@ -37,7 +37,6 @@
 import {ref}  from "vue"
 
 const handleAddJob = () => {
-  // B1 
 }
 
 <style scoped>
