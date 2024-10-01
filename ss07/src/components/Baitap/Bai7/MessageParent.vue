@@ -9,7 +9,7 @@
   <script setup>
   import MessageChildren from '@/components/Baitap/Bai7/MessageChildren.vue';
   
-  // Hàm hiển thị thông báo khi nhận sự kiện từ component con
+  
   const displayMessage = () => {
     alert('Welcome to Rikkei Education');
   };

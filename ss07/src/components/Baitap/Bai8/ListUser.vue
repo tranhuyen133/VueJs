@@ -6,24 +6,10 @@
     </div>
   </template>
   
-  <script>
-  import FormAddUser from '@/components/Baitap/Bai8/FormAddUser.vue';
-  
-  export default {
-    components: {
-      FormAddUser
-    },
-    data() {
-      return {
-        showForm: false
-      };
-    },
-    methods: {
-      toggleForm() {
-        this.showForm = !this.showForm;
-      }
-    }
-  };
+  <script setup>
+
+  import FormAddUser from '@/components/Baitap/Bai8/FormAddUser.vue'
+
   </script>
   
   <style scoped>
