@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "name": "Táo Lai",
+      "price": 4,
+      "quantity": 10,
+      "id": 2
+    },
+    {
+      "name": "Dưa hấu",
+      "price": 10000,
+      "quantity": 10,
+      "id": 3
+    },
+    {
+      "name": "Táo",
+      "price": 20000,
+      "quantity": 10,
+      "id": 4
+    },
+    {
+      "name": "Táo",
+      "price": 20000,
+      "quantity": 10,
+      "id": 5
+    }
+  ],
+
+  "listproduct": [
+    { "id": 1, "name": "Product 1",  "price": 100, "quantity": 10 },
+    { "id": 2, "name": "Product 2", "price": 150, "quantity": 5 },
+    { "id": 3, "name": "Product 3",  "price": 200, "quantity": 7 },
+    { "id": 4, "name": "Product 4",  "price": 300, "quantity": 2 },
+    { "id": 5, "name": "Product 5",  "price": 250, "quantity": 6 }
+  ],
+  
+  "productlist":[
+      {
+        "id": 1,
+        "name": "Cam Tươi",
+        "image": "https://www.google.com/imgres?q=orange&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F43%2FAmbersweet_oranges.jpg%2F800px-Ambersweet_oranges.jpg&imgrefurl=https%3A%2F%2Fvi.wiktionary.org%2Fwiki%2Forange&docid=bgi1dkPaS8jSbM&tbnid=bttfVamhoak4hM&vet=12ahUKEwixpoOMl4KJAxX6zTQHHeZhBowQM3oECBkQAA..i&w=800&h=902&hcb=2&ved=2ahUKEwixpoOMl4KJAxX6zTQHHeZhBowQM3oECBkQAA",
+        "price": 12000,
+        "quantity": 12,
+        "dateAdded": "25/03/2024"
+      },
+      {
+        "id": 2,
+        "name": "Táo Lê",
+        "image": "https://www.google.com/imgres?q=l%C3%AA&imgurl=https%3A%2F%2Fthucphamdongxanh.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fle.jpeg&imgrefurl=https%3A%2F%2Fthucphamdongxanh.com%2Fsan-pham%2Fle%2F&docid=uiqX98kde_WeNM&tbnid=Fanb-dkQXiRIZM&vet=12ahUKEwizw52wmIKJAxUC3zQHHfibA8QQM3oECBkQAA..i&w=500&h=374&hcb=2&ved=2ahUKEwizw52wmIKJAxUC3zQHHfibA8QQM3oECBkQAA",
+        "price": 25000,
+        "quantity": 150,
+        "dateAdded": "15/02/2024"
+      },
+      {
+        "id": 3,
+        "name": "Xoài",
+        "image": "https://www.google.com/imgres?q=mango&imgurl=https%3A%2F%2Fhoangphatfruit.com%2Fvnt_upload%2Fproduct%2F10_2022%2Fhoang_phat_fruit_5.jpg&imgrefurl=https%3A%2F%2Fhoangphatfruit.com%2Fen%2Fmango.html&docid=rXLSHemZ0T5GyM&tbnid=8PCmD_OMXqb61M&vet=12ahUKEwjX2Om8mIKJAxXFrVYBHYrWLu0QM3oECB0QAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjX2Om8mIKJAxXFrVYBHYrWLu0QM3oECB0QAA",
+        "price": 30000,
+        "quantity": 102,
+        "dateAdded": "28/06/2024"
+      }
+    
+  ]
+  
+}
+
+
