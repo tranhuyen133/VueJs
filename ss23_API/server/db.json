@@ -1,0 +1,308 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cam",
+      "price": 10000,
+      "quantity": 10,
+      "description": "Ngon và ngọt"
+    },
+    {
+      "id": 2,
+      "name": "Táo",
+      "price": 12000,
+      "quantity": 15,
+      "description": "Giòn và tươi"
+    },
+    {
+      "id": 3,
+      "name": "Chuối",
+      "price": 8000,
+      "quantity": 20,
+      "description": "Chín vàng, mềm"
+    },
+    {
+      "id": 4,
+      "name": "Dưa hấu",
+      "price": 15000,
+      "quantity": 7,
+      "description": "Ngọt và mọng nước"
+    },
+    {
+      "id": 5,
+      "name": "Nho",
+      "price": 20000,
+      "quantity": 12,
+      "description": "Nho ngọt, không hạt"
+    },
+    {
+      "id": 6,
+      "name": "Xoài",
+      "price": 18000,
+      "quantity": 8,
+      "description": "Chín, ngọt đậm"
+    },
+    {
+      "id": 7,
+      "name": "Bưởi",
+      "price": 25000,
+      "quantity": 5,
+      "description": "Bưởi hồng ngọt"
+    },
+    {
+      "id": 8,
+      "name": "Dứa",
+      "price": 9000,
+      "quantity": 10,
+      "description": "Ngọt và thơm"
+    },
+    {
+      "id": 9,
+      "name": "Lê",
+      "price": 14000,
+      "quantity": 13,
+      "description": "Giòn và mọng nước"
+    },
+    {
+      "id": 10,
+      "name": "Mận",
+      "price": 11000,
+      "quantity": 9,
+      "description": "Chua ngọt tự nhiên"
+    },
+    {
+      "id": 11,
+      "name": "Chanh",
+      "price": 6000,
+      "quantity": 25,
+      "description": "Tươi, có vị chua"
+    },
+    {
+      "id": 12,
+      "name": "Ổi",
+      "price": 9000,
+      "quantity": 18,
+      "description": "Ngọt và giòn"
+    },
+    {
+      "id": 13,
+      "name": "Lựu",
+      "price": 16000,
+      "quantity": 6,
+      "description": "Ngọt và nhiều hạt"
+    },
+    {
+      "id": 14,
+      "name": "Dừa",
+      "price": 12000,
+      "quantity": 14,
+      "description": "Nước ngọt, mát"
+    },
+    {
+      "id": 15,
+      "name": "Kiwi",
+      "price": 22000,
+      "quantity": 8,
+      "description": "Chua ngọt, bổ dưỡng"
+    },
+    {
+      "id": 16,
+      "name": "Sầu riêng",
+      "price": 30000,
+      "quantity": 4,
+      "description": "Đậm đà, mùi đặc trưng"
+    },
+    {
+      "id": 17,
+      "name": "Na",
+      "price": 17000,
+      "quantity": 10,
+      "description": "Chín mềm, thơm"
+    },
+    {
+      "id": 18,
+      "name": "Mãng cầu",
+      "price": 18000,
+      "quantity": 7,
+      "description": "Ngọt và nhiều dinh dưỡng"
+    },
+    {
+      "id": 19,
+      "name": "Quýt",
+      "price": 13000,
+      "quantity": 20,
+      "description": "Ngọt dịu, dễ ăn"
+    },
+    {
+      "id": 20,
+      "name": "Việt quất",
+      "price": 25000,
+      "quantity": 9,
+      "description": "Chua ngọt, giàu dinh dưỡng"
+    },
+    {
+      "id": 21,
+      "name": "Kiwi",
+      "price": 20000
+    },
+    {
+      "name": "Kiwi",
+      "price": 35000,
+      "quantity": 9,
+      "description": "Ngọt và hơi chua",
+      "id": 22
+    },
+    {
+      "name": "Mèn mén",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hơi khô",
+      "id": 23
+    },
+    {
+      "name": "Mèn mén",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hơi khô",
+      "id": 24
+    },
+    {
+      "name": "Mèn mén",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hơi khô",
+      "id": 25
+    },
+    {
+      "name": "Mèn mén",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hơi khô",
+      "id": 26
+    },
+    {
+      "name": "Mèn mén",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hơi khô",
+      "id": 27
+    },
+    {
+      "name": "Mèn mén",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hơi khô",
+      "id": 28
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Nguyen Van A",
+      "email": "nguyenvana@example.com",
+      "address": "123 ABC Street",
+      "phone": "0909123456",
+      "status": true,
+      "created_at": "2024-10-01"
+    },
+    {
+      "id": 2,
+      "student_name": "Le Thi B",
+      "email": "lethib@example.com",
+      "address": "456 DEF Street",
+      "phone": "0912345678",
+      "status": false,
+      "created_at": "2024-10-02"
+    },
+    {
+      "id": 3,
+      "student_name": "Tran Van C",
+      "email": "tranvanc@example.com",
+      "address": "789 GHI Street",
+      "phone": "0923456789",
+      "status": true,
+      "created_at": "2024-10-03"
+    },
+    {
+      "id": 4,
+      "student_name": "Pham Thi D",
+      "email": "phamthid@example.com",
+      "address": "123 JKL Street",
+      "phone": "0934567890",
+      "status": true,
+      "created_at": "2024-10-04"
+    },
+    {
+      "id": 5,
+      "student_name": "Hoang Van E",
+      "email": "hoangvane@example.com",
+      "address": "456 MNO Street",
+      "phone": "0945678901",
+      "status": false,
+      "created_at": "2024-10-05"
+    },
+    {
+      "student_name": "New Student",
+      "email": "newstudent@example.com",
+      "address": "123 New Street",
+      "phone": "0956789012",
+      "status": true,
+      "created_at": "2024-10-10",
+      "id": 6
+    },
+    {
+      "student_name": "New Student",
+      "email": "newstudent@example.com",
+      "address": "123 New Street",
+      "phone": "0956789012",
+      "status": true,
+      "created_at": "2024-10-10",
+      "id": 7
+    },
+    {
+      "student_name": "New Student",
+      "email": "newstudent@example.com",
+      "address": "123 New Street",
+      "phone": "0956789012",
+      "status": true,
+      "created_at": "2024-10-10",
+      "id": 8
+    },
+    {
+      "student_name": "New Student",
+      "email": "newstudent@example.com",
+      "address": "123 New Street",
+      "phone": "0956789012",
+      "status": true,
+      "created_at": "2024-10-10",
+      "id": 9
+    },
+    {
+      "student_name": "New Student",
+      "email": "newstudent@example.com",
+      "address": "123 New Street",
+      "phone": "0956789012",
+      "status": true,
+      "created_at": "2024-10-10",
+      "id": 11
+    },
+    {
+      "student_name": "New Student",
+      "email": "newstudent@example.com",
+      "address": "123 New Street",
+      "phone": "0956789012",
+      "status": true,
+      "created_at": "2024-10-10",
+      "id": 12
+    },
+    {
+      "student_name": "New Student",
+      "email": "newstudent@example.com",
+      "address": "123 New Street",
+      "phone": "0956789012",
+      "status": true,
+      "created_at": "2024-10-10",
+      "id": 13
+    }
+  ]
+}
